@@ -1,4 +1,4 @@
-# Testing Documentation Creating
+# Testing Documentation Creation
 The testing of Guru99 Telecom https://demo.guru99.com/telecom/index.html was carried out and were prepared different types of testing documentation based on <a href="https://docs.google.com/spreadsheets/d/17pDHGwkAFIrDY8UlfVdkKrw2lv6KFSYgS0cryyty1Fk/edit#gid=0">requirements</a>:
 
  <ul>
